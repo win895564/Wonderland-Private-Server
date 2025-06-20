@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wlo.pserver.core", "wlo.pse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wlo.pserver.Bot", "wlo.pserver.Bot\wlo.pserver.Bot.csproj", "{F5A7B3D9-0691-4B91-9819-A950B5F5A678}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wlo.pserver.tests", "wlo.pserver.tests\wlo.pserver.tests.csproj", "{1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -94,6 +96,22 @@ Global
 		{F5A7B3D9-0691-4B91-9819-A950B5F5A678}.Release|x64.Build.0 = Release|Any CPU
 		{F5A7B3D9-0691-4B91-9819-A950B5F5A678}.Release|x86.ActiveCfg = Release|Any CPU
 		{F5A7B3D9-0691-4B91-9819-A950B5F5A678}.Release|x86.Build.0 = Release|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Debug|ARM.ActiveCfg = Debug|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Debug|ARM.Build.0 = Debug|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Debug|x64.ActiveCfg = Debug|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Debug|x64.Build.0 = Debug|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Debug|x86.ActiveCfg = Debug|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Debug|x86.Build.0 = Debug|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Release|Any CPU.Build.0 = Release|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Release|ARM.ActiveCfg = Release|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Release|ARM.Build.0 = Release|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Release|x64.ActiveCfg = Release|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Release|x64.Build.0 = Release|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Release|x86.ActiveCfg = Release|Any CPU
+                {1B0170F2-732E-4F0C-9DAE-A6DDE63324CA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
